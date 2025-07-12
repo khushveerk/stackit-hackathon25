@@ -48,10 +48,10 @@ npm start
 ``` 
 # Team
 
-## Name	Role
-### Khushveer Kaur	- Backend & Auth
-### Mayank N autiyal  - Frontend & UI
-### Roshan Kumar  - Design & Testing
+## Name	                   Role
+### Khushveer Kaur	  - Design & Testing
+### Mayank Nautiyal   - Frontend & UI
+### Roshan Kumar      - Backend & Auth
 ### Adityaraj Maurya  -	Admin Panel & Docs
 
 
