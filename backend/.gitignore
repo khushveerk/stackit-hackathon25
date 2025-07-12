@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Environment files (secrets)
+.env
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# OS/mac temp files
+.DS_Store
+
+# Editor configs
+.vscode/
